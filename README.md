@@ -9,13 +9,27 @@ A aplicação consiste em uma calculadora capaz de realizar as 4 principais oper
 
 ## Video Description
 
+<div align="center">
+
 ![Mobile Video](https://github.com/jgabfalcao/calculator/blob/main/assets/mobile-video.gif)
 
+</div>
+
 ## Layout mobile
+
+<div align="center">
+
 ![Mobile 1](https://github.com/jgabfalcao/calculator/blob/main/assets/mobile.png)
 
+</div>
+
 ## Layout web
+
+<div align="center">
+
 ![Web 1](https://github.com/jgabfalcao/calculator/blob/main/assets/desktop.png)
+
+</div>
 
 # Tecnologias utilizadas
 ## Front end
